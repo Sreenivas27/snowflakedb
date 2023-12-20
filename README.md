@@ -1,0 +1,2 @@
+# snowflakedb
+snowflakeDBinformation
